@@ -1,0 +1,57 @@
+h1 {
+  color: #c0cb7f;
+  fond-family: Arial;
+}
+h2 {
+  color: #c0cb7f;
+  fond-family: Arial;
+}
+h3 {
+  color: #c0cb7f;
+  fond-family: Arial;
+}
+
+body {
+  background-color: black;
+}
+
+p {
+  font-family: Calibri;
+  color: #5e5c56;
+}
+
+ul {
+  font-family: Calibri;
+  color:  #5e5c56;
+}
+ol {
+  font-family: Calibri;
+  color:  #5e5c56;
+}
+
+a {
+  color:#677f51;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+table {
+  border collapse: collapse;
+  border: 1px;
+  border-color: #a64626;
+  text-align: center;
+  color: #5e5c56;
+  font-weight: bold;
+  width: 250px;
+  background-color: #222222;
+}
+
+ul {
+  list-style-type: square;
+}
+
+ol {
+  list-style-type: lower-greek;
+}
